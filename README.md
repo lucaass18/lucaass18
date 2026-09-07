@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=lucaass18&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32" width="100%" />
-
 <a href="https://github.com/lucaass18">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Estudante+de+programa%C3%A7%C3%A3o;Aprendendo+C%2C+C%2B%2B+e+Java;Construindo+base+em+l%C3%B3gica+e+algoritmos" alt="Typing SVG" />
 </a>
