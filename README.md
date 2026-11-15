@@ -72,10 +72,9 @@ Sou estudante de programação, focado em construir uma base sólida antes de co
 
 <div align="center">
 
-<a href="mailto:sliprons@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+<a href="mailto:zenithcaliburn188@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-zenithcaliburn188%40gmail.com-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="E-mail: zenithcaliburn188@gmail.com" />
 </a>
-<img src="https://img.shields.io/badge/Discord-lucass189__-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: lucass189_" />
 
 </div>
 
