@@ -53,8 +53,8 @@ Sou estudante de programação, focado em construir uma base sólida antes de co
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lucaass18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaass18&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&langs_count=8&locale=pt-br" alt="Linguagens mais usadas" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucaass18&theme=tokyonight" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucaass18&theme=tokyonight" alt="Linguagens mais usadas" />
 
 <br/><br/>
 
@@ -62,7 +62,7 @@ Sou estudante de programação, focado em construir uma base sólida antes de co
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=lucaass18&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Troféus" />
+<img src="https://github-trophies.vercel.app/?username=lucaass18&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Troféus" />
 
 </div>
 
