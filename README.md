@@ -53,12 +53,12 @@ Sou estudante de programação, focado em construir uma base sólida antes de co
 
 <div align="center">
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucaass18&theme=tokyonight" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucaass18&theme=tokyonight" alt="Linguagens mais usadas" />
+<img height="170" src="./assets/stats.svg" alt="Estatísticas do GitHub" />
+<img height="170" src="./assets/linguagens.svg" alt="Linguagens mais usadas" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=lucaass18&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7&locale=pt_BR" alt="Sequência de commits" />
+<img src="https://streak-stats.demolab.com?user=lucaass18&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7&sideLabels=7aa2f7&dates=a9b1d6&locale=pt_BR" alt="Sequência de commits" />
 
 <br/><br/>
 

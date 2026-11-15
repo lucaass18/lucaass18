@@ -1,4 +1,4 @@
-name: Atualizar troféus
+name: Atualizar cards
 
 on:
   schedule:
@@ -7,6 +7,7 @@ on:
   push:
     paths:
       - assets/trofeus-cores.sed
+      - assets/cards-cores.sed
       - .github/workflows/trofeus.yml
 
 permissions:
@@ -25,10 +26,20 @@ jobs:
           grep -q "<svg" /tmp/trofeus.svg
           sed -f assets/trofeus-cores.sed /tmp/trofeus.svg > assets/trofeus.svg
 
+      - name: Baixar e recolorir estatísticas
+        run: |
+          B="https://github-profile-summary-cards.vercel.app/api/cards"
+          U="${{ github.repository_owner }}"
+          curl -fsSL "$B/stats?username=$U&theme=tokyonight" -o /tmp/stats.svg
+          curl -fsSL "$B/most-commit-language?username=$U&theme=tokyonight" -o /tmp/linguagens.svg
+          grep -q "<svg" /tmp/stats.svg && grep -q "<svg" /tmp/linguagens.svg
+          sed -f assets/cards-cores.sed /tmp/stats.svg > assets/stats.svg
+          sed -f assets/cards-cores.sed /tmp/linguagens.svg > assets/linguagens.svg
+
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/trofeus.svg
-          git diff --cached --quiet || git commit -m "Atualiza troféus"
+          git add assets/*.svg
+          git diff --cached --quiet || git commit -m "Atualiza cards"
           git push
