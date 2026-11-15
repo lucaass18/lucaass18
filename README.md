@@ -62,7 +62,7 @@ Sou estudante de programação, focado em construir uma base sólida antes de co
 
 <br/><br/>
 
-<img src="https://github-trophies.vercel.app/?username=lucaass18&theme=tokyonight&no-frame=true&no-bg=true&title=Commits,Repositories,NewUser,LongTimeUser&row=1&column=4&margin-w=15" alt="Troféus" />
+<img src="./assets/trofeus.svg" alt="Troféus" />
 
 </div>
 
