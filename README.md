@@ -15,7 +15,7 @@
 
 ## Sobre mim
 
-Sou estudante de programação, focado em construir uma base sólida antes de correr atrás de framework da moda. Meu caminho hoje passa por **C**, **C++** e **Java** — as linguagens que me obrigam a entender o que está acontecendo por baixo do capô.
+Sou estudante de programação, focado em construir uma base sólida antes de correr atrás de framework da moda. Meu caminho hoje passa por **C**, **C++** e **Java** — as linguagens que me obrigam a entender.
 
 - Estudando estruturas de dados, algoritmos e programação orientada a objetos
 - Aprendendo na prática: cada conceito novo vira um projetinho aqui no GitHub
